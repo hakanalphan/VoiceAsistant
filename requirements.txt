@@ -1,21 +1,21 @@
 # Flask Web Framework
-Flask==3.0.0
-flask-cors==4.0.0
-Werkzeug==3.0.1
-gunicorn==21.2.0
+Flask
+flask-cors
+Werkzeug
+gunicorn
 
 # OpenAI API (Whisper + GPT + TTS)
-openai==1.51.0
+openai
 
 # Basic Dependencies
 
 # Audio format support (optional but recommended)
-pydub==0.25.1
-together==1.2.1
+pydub
+together
 
 # Env management
-python-dotenv==1.0.1
+python-dotenv
 
 # Python 3.13 compatibility
-setuptools>=69.0.0
-wheel>=0.42.0
+setuptools
+wheel
