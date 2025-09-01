@@ -11,7 +11,11 @@ openai==1.51.0
 
 # Audio format support (optional but recommended)
 pydub==0.25.1
- together==1.2.1
+together==1.2.1
+
+# Env management
+python-dotenv==1.0.1
+
 # Python 3.13 compatibility
 setuptools>=69.0.0
 wheel>=0.42.0
